@@ -2,8 +2,11 @@
 
 ## SCREENSHOTS
 ### Home Page
-![dashboard snap](https://raw.githubusercontent.com/Kishore37sk/Bike-Service-Application/master/Screen%20Shot/Home%20Page.png?token=GHSAT0AAAAAABUTJOH74RECF4GONTNBO2WOYULFONA))
-
+![dashboard snap](https://raw.githubusercontent.com/Kishore37sk/Bike-Service-Application/master/Screen%20Shot/Home%20Page.png?token=GHSAT0AAAAAABUTJOH74RECF4GONTNBO2WOYULFONA)
+### Owner Dashboard 
+![dashboard snap](https://raw.githubusercontent.com/Kishore37sk/Bike-Service-Application/master/Screen%20Shot/Owner%20DashBoard.png?token=GHSAT0AAAAAABUTJOH6PDIK2RCRXAW6JP2AYULFPVQ)
+### Customer Dashboard
+![dashboard snap](https://raw.githubusercontent.com/Kishore37sk/Bike-Service-Application/master/Screen%20Shot/Customer%20DashBoard.png?token=GHSAT0AAAAAABUTJOH64GQQH4TQYO7YSBTAYULFQ3Q)
 𝐅𝐔𝐍𝐂𝐓𝐈𝐎𝐍𝐒:
 
 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫:
