@@ -4,9 +4,16 @@
 
 ### Home Page
 
+![Home Page](https://user-images.githubusercontent.com/96305967/169760510-e7050f4d-4ec8-4d69-85ef-76a857e7b1b9.png)
+
 ### Owner Dashboard 
 
+![Owner DashBoard](https://user-images.githubusercontent.com/96305967/169760539-35457144-3b49-4953-8b4f-062eed6a799f.png)
+
+
 ### Customer Dashboard
+
+![Customer DashBoard](https://user-images.githubusercontent.com/96305967/169760561-07f01975-8382-4a8f-93b1-f307e134eec6.png)
 
 
 𝐅𝐔𝐍𝐂𝐓𝐈𝐎𝐍𝐒:
