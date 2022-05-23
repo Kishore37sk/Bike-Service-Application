@@ -1,0 +1,23 @@
+asgiref==3.2.7
+Django==3.0.5
+django-widget-tweaks==1.4.8
+pytz==2020.1
+sqlparse==0.3.1
+
+
+username (leave blank to use 'sk_kishore'): admin
+Email address: admin@admin.com
+Password: admin
+Password (again):admin
+
+
+
+Backend / API:python,DJango (Python)
+
+
+
+Frontend: HTML,CSS.
+
+
+
+Database:mysql ,sqllite

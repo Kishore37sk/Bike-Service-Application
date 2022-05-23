@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" dir="ltr">
+
+<head>
+  <title>Customer </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <style media="screen">
+    .jumbotron {
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+
+    .jumbotron h1 {
+      text-align: center;
+    }
+    
+
+  </style>
+
+</head>
+
+<body>  
+  {% include "vehicle/navbar.html" %}
+  <br><br>
+  <div class="jumbotron" style="margin-bottom:0px;">
+    <h1 class="display-4">Hello</h1>
+    <p class="lead">Welcome to Vehicle Service Management</p>
+    <hr class="my-4">
+    <p>You can access various features after Login.</p>
+    <p class="lead">
+      <a class="btn btn-primary btn-lg" href="customerlogin" role="button">Login</a>&nbsp;
+      <a class="btn btn-primary btn-lg" href="customersignup" role="button">Create Your Account</a>
+      <center>
+        <img src="https://img.freepik.com/free-vector/customer-relationship-management-concept-illustration_114360-7652.jpg?t=st=1652846758~exp=1652847358~hmac=cd2f051c8f327b8c9c0a277c3509063820ff104f9fb891a858d8bfe490e351a0&w=740" alt="" />
+      </center><br>
+    </p>
+    
+  </div>
+  
+  {% include "vehicle/footer.html" %}
+</body>
+
+</html>

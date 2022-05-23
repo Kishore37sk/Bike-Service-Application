@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" dir="ltr">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</head>
+
+<body>
+  {% include "vehicle/navbar.html" %}
+  <br><br>
+
+  <center>
+    <h3 class='alert alert-success'>Send Us Your Valuable Feedback !</h3>
+
+    <form method="POST">
+      <!-- Very Important csrf Token -->
+      {% csrf_token %}
+      <div class="form-group">
+        <p>
+          <img src="https://img.freepik.com/free-vector/contact-us-retro-cartoon-concept-with-paper-sheets-tacks-with-support-service-icons_1284-17687.jpg?t=st=1652697112~exp=1652697712~hmac=cedcb29b19132a2f89e1c67a13a32799153298d98bf704e8a275f3813c797f2c&w=1380" alt="Trulli" width="500" height="100" background-size="cover" background-postion="center" >
+        <h3>{{ form.as_p }}</h3>
+        </p>
+        <br>
+        <input type="submit" value="Send Message" class='btn btn-primary btn-lg'>
+      </div>
+    </form>
+  </center>
+  {% include "vehicle/footer.html" %}
+</body>
+</html>
