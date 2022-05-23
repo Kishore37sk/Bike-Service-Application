@@ -1,12 +1,13 @@
 # Bike Service
 
 ## SCREENSHOTS
+
 ### Home Page
-![dashboard snap](https://raw.githubusercontent.com/Kishore37sk/Bike-Service-Application/master/Screen%20Shot/Home%20Page.png?token=GHSAT0AAAAAABUTJOH74RECF4GONTNBO2WOYULFONA)
+
 ### Owner Dashboard 
-![dashboard snap](https://raw.githubusercontent.com/Kishore37sk/Bike-Service-Application/master/Screen%20Shot/Owner%20DashBoard.png?token=GHSAT0AAAAAABUTJOH6PDIK2RCRXAW6JP2AYULFPVQ)
+
 ### Customer Dashboard
-![dashboard snap](https://raw.githubusercontent.com/Kishore37sk/Bike-Service-Application/master/Screen%20Shot/Customer%20DashBoard.png?token=GHSAT0AAAAAABUTJOH64GQQH4TQYO7YSBTAYULFQ3Q)
+
 
 𝐅𝐔𝐍𝐂𝐓𝐈𝐎𝐍𝐒:
 
@@ -36,7 +37,25 @@
       DataBase  -> MySql
       
 
+𝐃𝐚𝐭𝐚𝐁𝐚𝐬𝐞 𝐒𝐜𝐡𝐞𝐦𝐚 :
 
+            mysql> use bike service;
+            mysql> show tables;
+            +--------------------+
+            | Tables_in_workshop |
+            +--------------------+
+            | customer           |
+            | owner              |
+            | Machine            |
+            +--------------------+
+            
+            This application has Three tables 
+              
+                1.) customer - to handle all booking Details and history
+                2.) Machine - to handle service data
+                3.) owner - to handle user data
+                
+         In order to handle owner data I make property file it is much convenient than table data
 
 
 𝐇𝐎𝐖 𝐓𝐎 𝐑𝐔𝐍 𝐓𝐇𝐈𝐒 𝐏𝐑𝐎𝐉𝐄𝐂𝐓
