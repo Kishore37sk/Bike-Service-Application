@@ -39,7 +39,7 @@
 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐭𝐚𝐜𝐤 𝐔𝐬𝐞𝐝 :
 
       FrameWork ->  Django
-      Front-End -> HTML,CSS,JavaScript,Boot
+      Front-End -> HTML,CSS,JavaScript,BootStrap
       Back-End  -> Python (Programming Language)
       DataBase  -> MySql
       
